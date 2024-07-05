@@ -1,0 +1,101 @@
+#main{
+
+	width:100%;
+	font-family:Calibri;
+	height:1062px;
+
+}
+
+#main div{
+
+
+	padding-bottom:10px;
+
+}
+
+
+#titulo{
+
+	text-align:center;
+	width:100%;
+	border:none;
+
+}
+
+h2{
+
+	color:#ACAAAA;
+	text-decoration: underline;
+	font-size:15px;
+
+}
+
+h1{
+
+	font-size:20px;
+
+}
+h3{
+
+	font-size:15px;
+
+}
+
+p{
+
+	font-size:13px;
+	word-wrap: break-word;
+	margin-top:5px;
+	margin-bottom:5px;
+
+
+}
+
+
+
+#formacao{
+
+	float:left;
+	width:50%;
+	border-top:5px solid #ACAAAA;
+
+}
+
+#perfil{
+
+	border-top:5px solid #ACAAAA;
+
+}
+
+
+
+#qualificacoes{
+
+	float:left;
+	width:50%;
+	border-top:5px solid #ACAAAA;
+
+}
+
+#experiencia{
+	clear:both;
+	border-top:5px solid #ACAAAA;
+}
+
+#ccursos{
+border-top:5px solid #ACAAAA;
+
+
+}
+
+#idiomas{
+
+	border-top:5px solid #ACAAAA;
+
+}
+
+.rating{
+
+	height:15px;
+
+}

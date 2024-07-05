@@ -1,0 +1,205 @@
+body{
+
+	font-family:Ubuntu;
+	margin:0px;
+	padding:0px;
+
+}
+
+.retorno{
+
+	display:none;
+
+}
+
+input{
+
+	padding:5px;
+
+}
+
+
+section{
+
+	margin:auto;
+	clear:both;
+	padding-top:100px;
+}
+
+h2{
+
+	color:gray;
+	text-align:center;
+	font-size:27px;
+
+}
+
+
+
+header{
+
+	width:100%;
+	text-align:center;
+
+}
+
+.mobile{
+
+	display:none;
+
+}
+
+#texthead{
+
+	font-size:23px;
+
+}
+
+#logo{
+
+	width:260px;
+	text-align:center;
+	margin:auto;
+
+}
+
+#main section{
+
+	width:1020px;
+
+}
+
+.imagem{
+
+	height:350px;
+
+}
+
+.divisao{
+
+	float:left;
+	width:50%;
+
+}
+
+.gerar{
+
+	width:100%;
+	text-align:center;
+
+}
+
+.gerar input{
+
+	padding:20px;
+	border-radius:5px;
+	background-color:#228B22;
+	color:#fff;
+	border:0px;
+	cursor:pointer;
+}
+
+#main{
+
+	width:1020px;
+	margin:auto;
+	border:none;
+	background-color:white;
+	padding:0px;
+	min-height:600px;
+}
+
+.botao{
+
+	padding:10px;
+	background-color:#1E90FF;
+	color:#fff;
+	border:0px;
+	cursor:pointer;
+	margin-top:20px;
+
+}
+
+.imagemmob{
+
+	display:none;
+
+}
+
+textarea{
+
+	resize:none;
+
+}
+
+
+
+footer img{
+
+	height:100px;
+
+}
+
+#tdhoras{
+
+	display:none;
+
+}
+
+#tddias{
+
+	display:none;
+
+}
+
+.divisao{
+
+	float:left;
+	width:50%;
+
+}
+
+.divisao img{
+
+	height:350px;
+
+}
+
+.divisao div{
+
+	padding:30px;
+
+}
+
+.divisao div .campo{
+
+	width:50px;
+
+}
+
+footer{
+
+	width:100%;
+	background-color:#000;
+	color:#fff;
+	padding-top:20px;
+	padding-bottom:20px;
+	text-align:center;
+	margin-top:50px;
+	clear:both;
+
+}
+
+.total{
+
+	font-size:22px;
+
+}
+
+h2{
+
+		margin-top:30px;
+
+}
+
+
